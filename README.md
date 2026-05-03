@@ -68,6 +68,6 @@ gradle build
 Run the main Java file from your IDE.
 
 ### 👨‍💻 Author
-*Shakeel Ahmed*
-*BS Software Engineering Student*
-*Web Developer | Software Engineering Learner*
+- *Shakeel Ahmed*
+- *BS Software Engineering Student*
+- *Web Developer | Software Engineering Learner*
